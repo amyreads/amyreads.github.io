@@ -1,4 +1,4 @@
 ## Welcome to my project!
 
-This site is still under construction — please come back later :) 
+This is my academic website - it will be regularly updated.  
 
